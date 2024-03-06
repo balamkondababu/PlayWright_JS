@@ -1,0 +1,29 @@
+Playwright
+----------------
+
+Introduction:
+
+Cross-browser. Playwright supports all modern rendering engines including Chromium, WebKit, and Firefox.
+
+Cross-platform. Test on Windows, Linux, and macOS, locally or on CI, headless or headed.
+
+Cross-language. Use the Playwright API in TypeScript, JavaScript, Python, .NET, Java.
+
+Test Mobile Web. Native mobile emulation of Google Chrome for Android and Mobile Safari. The same rendering engine works on your Desktop and in the Cloud.
+
+
+Features:
+
+Free and Open Source
+Multi Browser, Multi Language
+Easy Setup and configuration
+Functional, API and Accessibility Testing
+Built-in Reports and custom reports
+Parallel testing
+Auto wait
+Built-in assertions
+Multi tab and Multi window
+Frames, shadow dom
+Test parameters
+Emulate mobile devices
+Fast
