@@ -19,4 +19,7 @@ test('practice radio box features',async({page})=>{
     await expect(await page.locator("input[value='Female'][name='optradio']").isChecked()).toBeTruthy()
     await expect(await page.locator("input[value='Male'][name='optradio']").isChecked()).toBeFalsy()
 
+
+    console.log(await page.textContent("#buttoncheck"))
+
 });
